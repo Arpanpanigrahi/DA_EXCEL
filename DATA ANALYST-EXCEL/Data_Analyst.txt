@@ -1,0 +1,93 @@
+l1> HOW TO CALCULATE PERCENTAGE OF A NUMBER 
+--> ANY NUMBER / 100
+
+2> DISCOUNT AND PROFIT OF A NUMBER 
+
+3> SQUARE AND BASIC OPERATION OF A NUMBER LIKE ADDITION, MULTIPLICATION ETC.
+
+4> CASE STUDY
+	1> HOW TO SELL THE SOAP IF IT NOT SELLING IN A SHOP?
+	2> HOW MANY PEOPLE ARE DRINKING ALCOHOL IN YOUR LOCALITY?
+
+5> COURSE CONTENTS
+	1> EXCEL
+	    - .xslx 
+		It is default format
+		It has some specific number of lines
+		And we can add multiple table in same excel file
+		
+	    - .csv (comma separated values)
+		It has more number of lines as compared to .xslx
+		we cannot create multiple table
+		
+	    - .txt (text file)
+		Like Notepad
+
+	2> SQL
+	   
+	3> PYTHON
+
+	4> POWER-BI AND TABLEU
+
+
+Column- vertical
+Row - Horizontal
+
+1> How to enter a data 
+2> Align data in table with border
+3> How to select data in between range
+	1> Number data
+	2> Character data
+4> 
+
+CONDITIONAL FORMATTING  --> For Percentage and Graph
+Conditional formatting is used to change the appearance of cells in a range based on your specified conditions.
+The conditions are rules based on specified numerical values or matching text.
+
+SHIFT + ARROW KEY
+
+CNTRL + SHIFT + ARROW KEY
+
+Create a Table
+1. Select Whole Table
+2. Go To Home --> Select Format as Table with Check Mark on My header has tables
+
+Excel Short And Filter
+
+------------------------------------------------------------------------------------------------------------------------------------
+CNTRL + Z ----> BACK DATA
+
+CNTRL + SHIFT + L ---> TO ADD FILTER
+
+=SUM(E2,F2,G2)
+
+=AVERAGE(E2:G2)
+
+=CONCAT(B2," ",C2) ---> To Merge Two Words
+
+=VLOOKUP($J3,$C$2:$F$7,2,0)
+
+=COUNTIF(O13:O16,">500")
+
+=SUMIF(N13:N16,">20",O13:O16)   // Mark greater than 20
+
+
+=INDEX($B$3:$G$8,MATCH($J$13,$C$3:$C$8,0),MATCH(I14,$B$3:$G$3,0))
+
+SELECT WHOLE TABLE
+MATCH
+DROPDOWN NAME
+SUBJECT
+
+
+=VLOOKUP(M3,$D$1:$E$361,MATCH($N$2,$D$1:$E$1,0),0)
+
+=INDEX($A$1:$E$361,MATCH(M16,$D$1:$D$361,0),MATCH($N$15,$A$1:$E$1,0))
+
+=OFFSET($D$1,MATCH(M29,$D$2:$D$361,0),MATCH($N$28,$E$1:$E$361,0))
+
+
+VLOOKUP-
+1. always go from left to right.
+2. insert that column if it is not present before that column.
+3. from what you select always count from that 
