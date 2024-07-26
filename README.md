@@ -1,2 +1,5 @@
-https://www.youtube.com/playlist?list=PLmHi7ol7EPSCcS7mM4xZHIF-tlY8t1s4y
-https://drive.google.com/drive/folders/1fPE3YaFQfcsPg9Uw2ZUvidAm9QKUSXZV
+# SAMPLE SUPER STORE ANALYSIS DASHBOARD
+[![Screenshot-895.png](https://i.postimg.cc/SNt4gdQN/Screenshot-895.png)](https://postimg.cc/gnR1Jv6f)
+
+# VRINDA STORE ANALYSIS DASBOARD
+[![Screenshot-896.png](https://i.postimg.cc/FFygbCZ3/Screenshot-896.png)](https://postimg.cc/gr0ZmD12)
